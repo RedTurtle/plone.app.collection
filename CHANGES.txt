@@ -4,7 +4,9 @@ Changelog
 1.0.12 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Use "is_folderish" metadata value instead "isPrincipiaFolderish" in
+  getFoldersAndImages method to detect if the item is a folderish obj
+  [cekk]
 
 
 1.0.11 (2013-08-13)
